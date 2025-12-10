@@ -1,3 +1,4 @@
+// ignore: file_names
 class Solution {
   int findJudge(int n, List<List<int>> trust) {
     Set<int> trustPeople = {}; // 신뢰받는 사람 리스트 (판사 후보)
